@@ -9,15 +9,17 @@ p{
     margin-top: 1%;
     margin-bottom: 1%;
 }
-/* Menu Layout */
+.pad-l-r{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+/* Menu*/
 nav {   
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-left: 15%;
-    padding-right: 15%;
 }
 .menu {
     display: flex;
@@ -25,7 +27,6 @@ nav {
     gap: 16px;
     flex-direction: end;
 }
-/* Menu Style */
 header, a{
     background-color: #1F2937;
     color: #f9faf8;
@@ -37,13 +38,14 @@ a {
     font-size: 24px;
 }
 /*Hero*/
+.hero{
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
 .flex {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 10%;
-    padding-bottom: 10%;
-    background-color: #1F2937;
 }
 .hero-left{
     flex-direction: start;
@@ -57,16 +59,36 @@ img{
     max-width: 500px;
     
 }
-.hero-left h2{
+.hero-left h2, h2{
     font-size: 48px;
     font-weight: extra-bold;
 }
 .hero, .hero h2, button{
     color: #f9faf8;
+    background-color: #1F2937;
 }
 button{
     background-color: #3882F6;
     padding: 2% 5%;
     border: 2px solid #3882F6;
     border-radius: 8%;
+}
+/*Info section*/
+.info h2{
+    text-align: center;
+}
+.info-item, .info-item img{
+    max-width: 150px;
+}
+.info-items{
+    justify-content: center;
+    padding-top: 5%;
+}
+.info-item{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.info{
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
