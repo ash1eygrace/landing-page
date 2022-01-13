@@ -63,11 +63,11 @@ img{
     font-size: 48px;
     font-weight: extra-bold;
 }
-.hero, .hero h2, button{
+.hero, .hero h2, .sign-up-btn{
     color: #f9faf8;
     background-color: #1F2937;
 }
-button{
+.sign-up-btn{
     background-color: #3882F6;
     padding: 2% 5%;
     border: 2px solid #3882F6;
@@ -125,13 +125,13 @@ blockquote{
 .cta-right{
     flex-direction: end;
 }
-button{
+.cta-btn{
     min-width: 80px;
     background-color: #3882F6;
     padding: 10% 15%;
     border: 2px solid #e5e7eb;
     border-radius: 8%;
 }
-button a{
+.cta-btn{
     background-color: #3882F6;
 }
