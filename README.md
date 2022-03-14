@@ -8,7 +8,7 @@ https://ima4y.github.io/landing-page/
 
 This project is a simple landing page created with HTML, CSS, and Flexbox as part of The Odin Project curriculum. 
 
-It's a small project designed to have the learner strategically break a solution down into small bits, think about when to commit, get familiar with Git, GitHub, and other tools to build a workflow and muscle memory. 
+This is a small project designed to have the learner strategically break a solution down into small bits, think about when to commit, get familiar with Git, GitHub, and other tools to build a workflow and muscle memory. 
 
 ## Learning outcomes
 
