@@ -146,6 +146,7 @@ blockquote{
     flex-direction: end;
 }
 .cta-btn{
+    color: #e5e7eb;
     min-width: 80px;
     background-color: #3882F6;
     padding: 10% 15%;
