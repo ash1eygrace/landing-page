@@ -2,7 +2,7 @@
 
 ## View landing page: 
 
-https://ima4y.github.io/landing-page/
+https://ash1eygrace.github.io/landing-page/
 
 ## About this Project
 
@@ -32,12 +32,12 @@ Since my goal isn't to become a designer, I decided just to clone the provided s
 
 ### Provided Mockup 
 
-<img src="https://github.com/ima4y/landing-page/blob/main/mockups/landing-page-mockup.png" alt="landing-page" width="50%"/>
+<img src="https://github.com/ash1eygrace/landing-page/blob/main/mockups/landing-page-mockup.png" alt="landing-page" width="50%"/>
 
 
 ### Provided Styles
 
-<img src="https://github.com/ima4y/landing-page/blob/main/mockups/top-landing-page-colors-and-stuff.png" alt="landing-page-styles" width="50%"/>
+<img src="https://github.com/ash1eygrace/landing-page/blob/main/mockups/top-landing-page-colors-and-stuff.png" alt="landing-page-styles" width="50%"/>
 
 
 ## Source of Project
