@@ -10,6 +10,20 @@ This project is a simple landing page created with HTML, CSS, and Flexbox as par
 
 It's a small project designed to have the learner strategically break a solution down into small bits, think about when to commit, get familiar with Git, GitHub, and other tools to build a workflow and muscle memory. 
 
+## Learning outcomes
+
+- Learning to commit early & often. 
+- Becoming familiar with real-world tools. 
+- Breaking a large project into small chunks.
+
+## Tools used
+
+- Git
+- Visual Studio Code
+- Terminal (Bash)
+- GitHub
+- Chrome's Browser Dev Tools
+
 ## The Objective:
 
 The objective was to create a landing page on a topic you're interested in. Then add relevant copy and images. 
@@ -25,19 +39,6 @@ Since my goal isn't to become a designer, I decided just to clone the provided s
 
 <img src="https://github.com/ima4y/landing-page/blob/main/mockups/top-landing-page-colors-and-stuff.png" alt="landing-page-styles" width="50%"/>
 
-## Tools used
-
-- Git
-- Visual Studio Code
-- Terminal (Bash)
-- GitHub
-- Chrome's Browser Dev Tools
-
-## Learning outcomes
-
-- Learning to commit early & often. 
-- Becoming familiar with real-world tools. 
-- Breaking a large project into small chunks.
 
 ## Source of Project
 
