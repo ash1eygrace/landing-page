@@ -38,3 +38,7 @@ Since my goal isn't to become a designer, I decided just to clone the provided s
 - Learning to commit early & often. 
 - Becoming familiar with real-world tools. 
 - Breaking a large project into small chunks.
+
+## Source of Project
+
+https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page
