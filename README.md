@@ -18,8 +18,7 @@ Since my goal isn't to become a designer, I decided just to clone the provided s
 
 <img src="https://github.com/ima4y/landing-page/blob/main/mockups/landing-page-mockup.png" alt="landing-page" width="70%"/>
 
-<img src="https://github.com/ima4y/landing-page/blob/main/mockups/top-landing-page-colors-and-stuff.png
-" alt="landing-page-styles" width="70%"/>
+<img src="https://github.com/ima4y/landing-page/blob/main/mockups/top-landing-page-colors-and-stuff.png" alt="landing-page-styles" width="70%"/>
 
 ## Tools used
 
