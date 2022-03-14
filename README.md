@@ -16,9 +16,14 @@ The objective was to create a landing page on a topic you're interested in. Then
 
 Since my goal isn't to become a designer, I decided just to clone the provided screenshot mockup and styles they supplied as shown below:
 
-<img src="https://github.com/ima4y/landing-page/blob/main/mockups/landing-page-mockup.png" alt="landing-page" width="70%"/>
+### Provided Mockup 
 
-<img src="https://github.com/ima4y/landing-page/blob/main/mockups/top-landing-page-colors-and-stuff.png" alt="landing-page-styles" width="70%"/>
+<img src="https://github.com/ima4y/landing-page/blob/main/mockups/landing-page-mockup.png" alt="landing-page" width="50%"/>
+
+
+### Provided Styles
+
+<img src="https://github.com/ima4y/landing-page/blob/main/mockups/top-landing-page-colors-and-stuff.png" alt="landing-page-styles" width="50%"/>
 
 ## Tools used
 
