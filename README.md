@@ -1,5 +1,9 @@
 # landing-page
 
+## View landing page: 
+
+https://ima4y.github.io/landing-page/
+
 ## About this Project
 
 This project is a simple landing page created with HTML, CSS, and Flexbox as part of The Odin Project curriculum. 
@@ -12,10 +16,10 @@ The objective was to create a landing page on a topic you're interested in. Then
 
 Since my goal isn't to become a designer, I decided just to clone the provided screenshot mockup and styles they supplied as shown below:
 
-<img src="https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png" alt="drawing" width="70%"/>
+<img src="https://github.com/ima4y/landing-page/blob/main/mockups/landing-page-mockup.png" alt="landing-page" width="70%"/>
 
-<img src="https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png
-" alt="drawing" width="70%"/>
+<img src="https://github.com/ima4y/landing-page/blob/main/mockups/top-landing-page-colors-and-stuff.png
+" alt="landing-page-styles" width="70%"/>
 
 ## Tools used
 
