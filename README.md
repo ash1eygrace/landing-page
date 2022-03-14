@@ -28,7 +28,7 @@ This is a small project designed to have the learner strategically break a solut
 
 The objective was to create a landing page on a topic you're interested in. Then add relevant copy and images. 
 
-Since my goal isn't to become a designer, I decided just to clone the provided screenshot mockup and styles they supplied as shown below:
+Since my goal isn't to become a designer, I decided just to clone the provided screenshot mockup and styles that TOP supplied as shown below:
 
 ### Provided Mockup 
 
