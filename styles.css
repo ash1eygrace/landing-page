@@ -5,12 +5,13 @@
     margin: 0;
     font-family: sans-serif;
 }
-/*typography*/
-p{
+
+/* typography */
+p {
     margin-top: 1%;
     margin-bottom: 1%;
 }
-a{
+a {
     background-color: #1F2937;
     color: #f9faf8;
     text-decoration: none;
@@ -18,7 +19,7 @@ a{
 .text-logo {
     font-size: 24px;
 }
-blockquote{
+blockquote {
     font-size: 36px;
     font-style: italic;
     font-weight: 200;
@@ -27,8 +28,9 @@ blockquote{
 .caption {
     text-align: right;
 }
-/* Buttons */
-.cta-btn{
+
+/* buttons */
+.cta-btn {
     color: #e5e7eb;
     min-width: 80px;
     background-color: #3882F6;
@@ -36,19 +38,21 @@ blockquote{
     border: 2px solid #e5e7eb;
     border-radius: 8%;
 }
-.sign-up-btn{
+.sign-up-btn {
     color: #f9faf8;
     background-color: #3882F6;
     padding: 2% 5%;
     border: 2px solid #3882F6;
     border-radius: 8%;
 }
-/* Section styes */
-.section{
+
+/* section styes */
+.section {
     padding-left: 15%;
     padding-right: 15%;
 }
-/* Header*/
+
+/* header*/
 nav {   
     display: flex;
     align-items: center;
@@ -62,35 +66,36 @@ nav {
     gap: 16px;
     flex-direction: end;
 }
-header{
+header {
     background-color: #1F2937;
     color: #f9faf8;
 }
-/* Hero Section */
-.hero{
+
+/* hero section */
+.hero {
     padding-top: 10%;
     padding-bottom: 10%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.hero-left{
+.hero-left {
     flex-direction: start;
     padding-right: 5%;
     max-width: 450px;
 }
-.hero-right{
+.hero-right {
     flex-direction: end;
 }
-.hero img{
+.hero img {
     max-width: 100%;
     
 }
-.hero-left h2{
+.hero-left h2 {
     font-size: 48px;
     font-weight: extra-bold;
 }
-.hero, .hero h2{
+.hero, .hero h2 {
     color: #f9faf8;
     background-color: #1F2937;
 }
@@ -102,24 +107,25 @@ header{
         margin-top: 5%;
     }
   }
-/* Random Info section */
-.info h2, .info-items{
+
+/* random info section */
+.info h2, .info-items {
     text-align: center;
 }
-.info-item, .info-item img{
+.info-item, .info-item img {
     max-width: 150px;
 }
-.info-items{
+.info-items {
     display: flex;
     justify-content: center;
     align-items: center;
     padding-top: 5%;
 }
-.info-item{
+.info-item {
     margin-left: 2%;
     margin-right: 2%;
 }
-.info{
+.info {
     padding-top: 10%;
     padding-bottom: 10%;
 }
@@ -127,19 +133,21 @@ header{
     .info-items {
       display: block;
     }
-    .info-item, .info-item img{
+    .info-item, .info-item img {
         max-width: 75%;
         margin: auto;
     }
   }
-/* Quote section */ 
-.quote{
+
+/* quote section */ 
+.quote {
     padding-top: 10%;
     padding-bottom: 10%;
     background-color: #e5e7eb;
 }
-/* Call to action section*/
-.cta{
+
+/* call to action section */
+.cta {
     display: flex;
     margin: 8% 20% 8% 20%;
     background-color: #3882F6;
@@ -150,9 +158,9 @@ header{
     border: 4px solid #3882F6;
     border-radius: 5px;
 }
-.cta-left{
+.cta-left {
     flex-direction: left;
 }
-.cta-right{
+.cta-right {
     flex-direction: end;
 }
