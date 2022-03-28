@@ -31,6 +31,22 @@ blockquote{
 .caption {
     text-align: right;
 }
+/* Buttons */
+.cta-btn{
+    color: #e5e7eb;
+    min-width: 80px;
+    background-color: #3882F6;
+    padding: 10% 15%;
+    border: 2px solid #e5e7eb;
+    border-radius: 8%;
+}
+.sign-up-btn{
+    color: #f9faf8;
+    background-color: #3882F6;
+    padding: 2% 5%;
+    border: 2px solid #3882F6;
+    border-radius: 8%;
+}
 /* Header*/
 nav {   
     display: flex;
@@ -76,13 +92,6 @@ header{
 .hero, .hero h2{
     color: #f9faf8;
     background-color: #1F2937;
-}
-.sign-up-btn{
-    color: #f9faf8;
-    background-color: #3882F6;
-    padding: 2% 5%;
-    border: 2px solid #3882F6;
-    border-radius: 8%;
 }
 @media screen and (max-width: 985px) {
     .hero {
@@ -145,12 +154,4 @@ header{
 }
 .cta-right{
     flex-direction: end;
-}
-.cta-btn{
-    color: #e5e7eb;
-    min-width: 80px;
-    background-color: #3882F6;
-    padding: 10% 15%;
-    border: 2px solid #e5e7eb;
-    border-radius: 8%;
 }
