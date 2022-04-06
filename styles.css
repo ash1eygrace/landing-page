@@ -60,12 +60,16 @@ blockquote {
 }
 
 /* header*/
+
+.section.header{
+    padding-top: 5%;
+    padding-bottom: 0%;
+}
+
 nav {   
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 20px;
-    padding-bottom: 20px;
 }
 
 .menu {
